@@ -1,0 +1,23 @@
+{
+  "name": "svg-component-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dfd1123",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/lodash-es": "^4.17.12",
+    "@types/webpack": "^5.28.5",
+    "chokidar": "2.1.8",
+    "fs-extra": "^11.2.0"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "svgo": "^3.2.0"
+  }
+}
